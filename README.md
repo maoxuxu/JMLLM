@@ -1,6 +1,6 @@
 # JMLLM
 
-The official implementation of our 2024 paper "[Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models]
+The official implementation of our 2024 paper "Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models"
 ## Table of Contents
 
 - [Updates](#updates)
@@ -10,7 +10,7 @@ The official implementation of our 2024 paper "[Divide and Conquer: A Hybrid Str
 ## Updates
 
 - (**2024/12/22**) We have released a quick implementation of JMLLM!
-- (**2024/12/20**) Our paper is on arXiv! Check it out [here](https://arxiv.org/abs/2311.08268)!
+- (**2024/12/20**) Our paper is on arXiv! Check it out [here](https://arxiv.org/)!
 
 
 ## Contact
